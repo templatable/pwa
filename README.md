@@ -17,7 +17,7 @@ A NextJS Template with Supabase helper functions, inherited from [Raw Template](
 
 ## Environment 
 
-> [!WARN]
+> [!WARNING]
 > Needed: `Supabase Keys`
 
 `.env.local`
