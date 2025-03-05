@@ -17,7 +17,7 @@ A NextJS Template with Supabase helper functions, inherited from [Raw Template](
 
 ## Environment 
 
-> [!TIP]
+> [!WARN]
 > Needed: `Supabase Keys`
 
 `.env.local`
@@ -26,5 +26,5 @@ NEXT_PUBLIC_SUPABASE_URL=""
 NEXT_PUBLIC_SUPABASE_ANON_KEY=""
 ```
 
-> [!INFO]
+> [!TIP]
 > If you wanted to opt-out from supabase, just delete the `utils/supabase` directory.
